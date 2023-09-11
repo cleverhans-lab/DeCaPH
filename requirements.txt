@@ -1,0 +1,8 @@
+numpy==1.19.5
+opacus==0.15.0
+pandas==1.1.5
+scikit-learn
+scipy==1.5.4
+torch==1.10.0
+torchvision==0.11.1
+tqdm==4.64.0
